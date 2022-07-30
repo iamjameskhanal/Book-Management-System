@@ -1,0 +1,5 @@
+This is the Front end code for Book Management app To show the relation between Student and Book.
+At first, It has two links : Student and Books 
+When we click on the students it will show the list of all the student and when we click the student name.It shows all the details about student.
+When we click on the books it will show the list of Books with With author name, Book name, Borrowed By, Issue date and Return date.
+When we click the author name, it will show Detail information of the book.
